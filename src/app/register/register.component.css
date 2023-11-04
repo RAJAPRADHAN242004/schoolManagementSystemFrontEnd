@@ -42,8 +42,9 @@ body {
     margin: 8px 0;
     border: none;
     cursor: pointer;
-    width: 100%;
+    width: 30%;
     opacity: 0.9;
+    margin-left: 60px;
   }
   
   .registerbtn:hover {
