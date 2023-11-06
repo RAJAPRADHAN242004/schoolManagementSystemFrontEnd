@@ -23,7 +23,10 @@ body{
     margin-left: 60px;
   }
   .emailDes{
-    padding-right: 33px;
+    padding-right: 42px;
+  }
+  .psw{
+    padding-right:10px ;
   }
   .resetbtn{
     background:#0f04aa ;
