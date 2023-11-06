@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(231, 231, 231);
+    font-family: Arial, Helvetica, sans-serif;
+}
+  .page{
+    text-align: center;
+  }
+  input[type=text], input[type=password] {
+    width: 30%;
+    padding: 15px;
+    border: none;
+    background: #f1f1f1;
+  }
+  .loginbtn {
+    background-color: #04aa04;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 10%;
+    opacity: 0.9;
+    margin-left: 60px;
+  }
+  .emailDes{
+    padding-right: 33px;
+  }
+  .resetbtn{
+    background:#0f04aa ;
+    color: white;
+    padding:16px 20px ;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 10%;
+    opacity: 0.9;
+    margin-left: 60px;
+  }
